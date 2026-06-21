@@ -44,6 +44,14 @@ A classic two-player Tic‑Tac‑Toe game with a clean, clickable GUI built usin
 
 ---
 
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Tic_Tac_Toe_2.png" width="48%" />
+</p>
+
+---
+
 ## 📫 Contact
 
 - **GitHub**: [@Mithun0017](https://github.com/Mithun0017)  
