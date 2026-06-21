@@ -51,6 +51,14 @@ A modern, browser-based Tic Tac Toe game featuring classic gameplay with smooth 
 
 ---
 
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Tic_Tac_Toe_1.png" width="48%" />
+</p>
+
+---
+
 ## 📫 Contact
 
 - **GitHub**: [@Mithun0017](https://github.com/Mithun0017)  
